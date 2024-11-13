@@ -169,7 +169,6 @@ public class MainActivity extends AppCompatActivity {
 ![changecolor5](https://github.com/user-attachments/assets/73caca94-3a5d-4562-9151-a8dd99241341)
 
 
-![changecolor56](https://github.com/user-attachments/assets/eee70263-79e3-4a2b-a918-f901984b53e8)
 
 
 ## Result:
